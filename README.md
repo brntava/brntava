@@ -1,8 +1,8 @@
-## 👋 Hi there
+## Hi there
 
-- 👀 Estou em busca de cada vez aprender mais sobre essa área
-- 🌱 Atualmente estudando javascript
-- 📫 email: bruno_tava7@hotmail.com
+- Estou em busca de cada vez aprender mais sobre essa área
+- Atualmente estudando javascript
+- Email: bruno_tava7@hotmail.com
 
 <div>
   <a href="https://github.com/brntava">
