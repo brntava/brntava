@@ -1,4 +1,4 @@
-## Hi there
+## Ola
 
 - Estou em busca de cada vez aprender mais sobre essa área
 - Atualmente estudando javascript
