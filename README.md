@@ -1,8 +1,5 @@
-## Ola
-
-- Estou em busca de cada vez aprender mais sobre essa área
-- Atualmente estudando javascript
-- Email: bruno_tava7@hotmail.com
+ - Buscando sempre aprender mais sobre essa área
+ - Atualmente estudando javascript
 
 <div>
   <a href="https://github.com/brntava">
