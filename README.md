@@ -1,5 +1,5 @@
  - Buscando sempre aprender mais sobre essa área
- - Atualmente estudando javascript
+ - Atualmente estudando ReactJS
  - Email: bruno_tava7@hotmail.com
 
 <div>
